@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These files are used to make the ebook (epub) version of GClub World Atlas. Each page of the book is exported as an image then built into epub structured documents.
+These files are used to make the ebook (epub3) version of GClub World Atlas. Each page of the book is exported as an image then built into epub structured documents.
 
 ## Files
 
