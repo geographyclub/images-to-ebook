@@ -18,5 +18,5 @@ These files are used to make the ebook (epub3) version of GClub World Atlas. Eac
 
 [OEBPS/toc.ncx](https://github.com/geographyclub/images-to-ebook/blob/master/OEBPS/toc.ncx) -- navigation document.
 
-[META-INF/container.xml](https://github.com/geographyclub/images-to-ebook/blob/master/META-INF/container.xml) -- points to content.opf.
+[META-INF/container.xml](https://github.com/geographyclub/images-to-ebook/blob/master/META-INF/container.xml) -- points to content file.
 
