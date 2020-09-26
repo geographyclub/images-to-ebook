@@ -1,0 +1,7 @@
+body{height:2550; width:1650; margin:0; padding:0; text-align:center}
+img{position:absolute; margin:0; padding:0; z-index:0;}
+a{color:black !important; cursor:pointer; text-decoration:none;}
+a:hover{color:#333;}
+h1{font-size:16pt;}
+li{font-size:16pt;}
+ul{list-style:none;}

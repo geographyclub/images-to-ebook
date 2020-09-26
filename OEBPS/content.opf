@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#" unique-identifier="BookId">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:identifier id="BookId">978-1-7773458-1-5</dc:identifier>
+    <dc:title>GClub World Atlas</dc:title>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2020-09-19T00:00:00Z</meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">portrait</meta>
+    <meta name="original-resolution" content="1650x2550"/>
+  </metadata>
+  <manifest>
+    <item id="stylesheet" href="style.css" media-type="text/css"/>
+    <item id="nav-html" href="nav.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page001-xhtml" href="world_ebook-page001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page002-xhtml" href="world_ebook-page002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page003-xhtml" href="world_ebook-page003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page004-xhtml" href="world_ebook-page004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page005-xhtml" href="world_ebook-page005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page006-xhtml" href="world_ebook-page006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page007-xhtml" href="world_ebook-page007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page008-xhtml" href="world_ebook-page008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page009-xhtml" href="world_ebook-page009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page010-xhtml" href="world_ebook-page010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page011-xhtml" href="world_ebook-page011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page012-xhtml" href="world_ebook-page012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page013-xhtml" href="world_ebook-page013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page014-xhtml" href="world_ebook-page014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page015-xhtml" href="world_ebook-page015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page016-xhtml" href="world_ebook-page016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page017-xhtml" href="world_ebook-page017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page018-xhtml" href="world_ebook-page018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page019-xhtml" href="world_ebook-page019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page020-xhtml" href="world_ebook-page020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page021-xhtml" href="world_ebook-page021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page022-xhtml" href="world_ebook-page022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page023-xhtml" href="world_ebook-page023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page024-xhtml" href="world_ebook-page024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page025-xhtml" href="world_ebook-page025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page026-xhtml" href="world_ebook-page026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page027-xhtml" href="world_ebook-page027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page028-xhtml" href="world_ebook-page028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page029-xhtml" href="world_ebook-page029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page030-xhtml" href="world_ebook-page030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page031-xhtml" href="world_ebook-page031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page032-xhtml" href="world_ebook-page032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page033-xhtml" href="world_ebook-page033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page034-xhtml" href="world_ebook-page034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page035-xhtml" href="world_ebook-page035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page036-xhtml" href="world_ebook-page036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page037-xhtml" href="world_ebook-page037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page038-xhtml" href="world_ebook-page038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page039-xhtml" href="world_ebook-page039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page040-xhtml" href="world_ebook-page040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page041-xhtml" href="world_ebook-page041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page042-xhtml" href="world_ebook-page042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page043-xhtml" href="world_ebook-page043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page044-xhtml" href="world_ebook-page044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page045-xhtml" href="world_ebook-page045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page046-xhtml" href="world_ebook-page046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page047-xhtml" href="world_ebook-page047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page048-xhtml" href="world_ebook-page048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page049-xhtml" href="world_ebook-page049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page050-xhtml" href="world_ebook-page050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page051-xhtml" href="world_ebook-page051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page052-xhtml" href="world_ebook-page052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page053-xhtml" href="world_ebook-page053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page054-xhtml" href="world_ebook-page054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page055-xhtml" href="world_ebook-page055.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page056-xhtml" href="world_ebook-page056.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page057-xhtml" href="world_ebook-page057.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page058-xhtml" href="world_ebook-page058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page059-xhtml" href="world_ebook-page059.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page060-xhtml" href="world_ebook-page060.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page061-xhtml" href="world_ebook-page061.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page062-xhtml" href="world_ebook-page062.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page063-xhtml" href="world_ebook-page063.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page064-xhtml" href="world_ebook-page064.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page065-xhtml" href="world_ebook-page065.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page066-xhtml" href="world_ebook-page066.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page067-xhtml" href="world_ebook-page067.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page068-xhtml" href="world_ebook-page068.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page069-xhtml" href="world_ebook-page069.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page070-xhtml" href="world_ebook-page070.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page071-xhtml" href="world_ebook-page071.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page072-xhtml" href="world_ebook-page072.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page073-xhtml" href="world_ebook-page073.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page074-xhtml" href="world_ebook-page074.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page075-xhtml" href="world_ebook-page075.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page076-xhtml" href="world_ebook-page076.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page077-xhtml" href="world_ebook-page077.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page078-xhtml" href="world_ebook-page078.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page079-xhtml" href="world_ebook-page079.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page080-xhtml" href="world_ebook-page080.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page081-xhtml" href="world_ebook-page081.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page082-xhtml" href="world_ebook-page082.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page083-xhtml" href="world_ebook-page083.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page084-xhtml" href="world_ebook-page084.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page085-xhtml" href="world_ebook-page085.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page086-xhtml" href="world_ebook-page086.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page087-xhtml" href="world_ebook-page087.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page088-xhtml" href="world_ebook-page088.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page089-xhtml" href="world_ebook-page089.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page090-xhtml" href="world_ebook-page090.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page091-xhtml" href="world_ebook-page091.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page092-xhtml" href="world_ebook-page092.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page093-xhtml" href="world_ebook-page093.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page094-xhtml" href="world_ebook-page094.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page095-xhtml" href="world_ebook-page095.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page096-xhtml" href="world_ebook-page096.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page097-xhtml" href="world_ebook-page097.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page098-xhtml" href="world_ebook-page098.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page099-xhtml" href="world_ebook-page099.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page100-xhtml" href="world_ebook-page100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page101-xhtml" href="world_ebook-page101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page102-xhtml" href="world_ebook-page102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page103-xhtml" href="world_ebook-page103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page104-xhtml" href="world_ebook-page104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page105-xhtml" href="world_ebook-page105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page106-xhtml" href="world_ebook-page106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page107-xhtml" href="world_ebook-page107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page108-xhtml" href="world_ebook-page108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page109-xhtml" href="world_ebook-page109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page110-xhtml" href="world_ebook-page110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page111-xhtml" href="world_ebook-page111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page112-xhtml" href="world_ebook-page112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page113-xhtml" href="world_ebook-page113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page114-xhtml" href="world_ebook-page114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page115-xhtml" href="world_ebook-page115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page116-xhtml" href="world_ebook-page116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page117-xhtml" href="world_ebook-page117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page118-xhtml" href="world_ebook-page118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page119-xhtml" href="world_ebook-page119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page120-xhtml" href="world_ebook-page120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page121-xhtml" href="world_ebook-page121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page122-xhtml" href="world_ebook-page122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page123-xhtml" href="world_ebook-page123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page124-xhtml" href="world_ebook-page124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page125-xhtml" href="world_ebook-page125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page126-xhtml" href="world_ebook-page126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page127-xhtml" href="world_ebook-page127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page128-xhtml" href="world_ebook-page128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page129-xhtml" href="world_ebook-page129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page130-xhtml" href="world_ebook-page130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page131-xhtml" href="world_ebook-page131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page132-xhtml" href="world_ebook-page132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page133-xhtml" href="world_ebook-page133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page134-xhtml" href="world_ebook-page134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page135-xhtml" href="world_ebook-page135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page136-xhtml" href="world_ebook-page136.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page137-xhtml" href="world_ebook-page137.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page138-xhtml" href="world_ebook-page138.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page139-xhtml" href="world_ebook-page139.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page140-xhtml" href="world_ebook-page140.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page141-xhtml" href="world_ebook-page141.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page142-xhtml" href="world_ebook-page142.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page143-xhtml" href="world_ebook-page143.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page144-xhtml" href="world_ebook-page144.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page145-xhtml" href="world_ebook-page145.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page146-xhtml" href="world_ebook-page146.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page147-xhtml" href="world_ebook-page147.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page148-xhtml" href="world_ebook-page148.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page149-xhtml" href="world_ebook-page149.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page150-xhtml" href="world_ebook-page150.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page151-xhtml" href="world_ebook-page151.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page152-xhtml" href="world_ebook-page152.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page153-xhtml" href="world_ebook-page153.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page154-xhtml" href="world_ebook-page154.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page155-xhtml" href="world_ebook-page155.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page156-xhtml" href="world_ebook-page156.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page157-xhtml" href="world_ebook-page157.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page158-xhtml" href="world_ebook-page158.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page159-xhtml" href="world_ebook-page159.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page160-xhtml" href="world_ebook-page160.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page161-xhtml" href="world_ebook-page161.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page162-xhtml" href="world_ebook-page162.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page163-xhtml" href="world_ebook-page163.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page164-xhtml" href="world_ebook-page164.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page165-xhtml" href="world_ebook-page165.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page166-xhtml" href="world_ebook-page166.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page167-xhtml" href="world_ebook-page167.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page168-xhtml" href="world_ebook-page168.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page169-xhtml" href="world_ebook-page169.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page170-xhtml" href="world_ebook-page170.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page171-xhtml" href="world_ebook-page171.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page172-xhtml" href="world_ebook-page172.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page173-xhtml" href="world_ebook-page173.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page174-xhtml" href="world_ebook-page174.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page175-xhtml" href="world_ebook-page175.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page176-xhtml" href="world_ebook-page176.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page177-xhtml" href="world_ebook-page177.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page178-xhtml" href="world_ebook-page178.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page179-xhtml" href="world_ebook-page179.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page180-xhtml" href="world_ebook-page180.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page181-xhtml" href="world_ebook-page181.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page182-xhtml" href="world_ebook-page182.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page183-xhtml" href="world_ebook-page183.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page184-xhtml" href="world_ebook-page184.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page185-xhtml" href="world_ebook-page185.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page186-xhtml" href="world_ebook-page186.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page187-xhtml" href="world_ebook-page187.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page188-xhtml" href="world_ebook-page188.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page189-xhtml" href="world_ebook-page189.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page190-xhtml" href="world_ebook-page190.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page191-xhtml" href="world_ebook-page191.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page192-xhtml" href="world_ebook-page192.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page193-xhtml" href="world_ebook-page193.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page194-xhtml" href="world_ebook-page194.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page195-xhtml" href="world_ebook-page195.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page196-xhtml" href="world_ebook-page196.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page197-xhtml" href="world_ebook-page197.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page198-xhtml" href="world_ebook-page198.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page199-xhtml" href="world_ebook-page199.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page200-xhtml" href="world_ebook-page200.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page201-xhtml" href="world_ebook-page201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page202-xhtml" href="world_ebook-page202.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page203-xhtml" href="world_ebook-page203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page204-xhtml" href="world_ebook-page204.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page205-xhtml" href="world_ebook-page205.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page206-xhtml" href="world_ebook-page206.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page207-xhtml" href="world_ebook-page207.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page208-xhtml" href="world_ebook-page208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page209-xhtml" href="world_ebook-page209.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page210-xhtml" href="world_ebook-page210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page211-xhtml" href="world_ebook-page211.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page212-xhtml" href="world_ebook-page212.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page213-xhtml" href="world_ebook-page213.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page214-xhtml" href="world_ebook-page214.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page215-xhtml" href="world_ebook-page215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page216-xhtml" href="world_ebook-page216.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page217-xhtml" href="world_ebook-page217.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page218-xhtml" href="world_ebook-page218.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page219-xhtml" href="world_ebook-page219.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page220-xhtml" href="world_ebook-page220.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page221-xhtml" href="world_ebook-page221.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page222-xhtml" href="world_ebook-page222.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page223-xhtml" href="world_ebook-page223.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page224-xhtml" href="world_ebook-page224.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page225-xhtml" href="world_ebook-page225.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page226-xhtml" href="world_ebook-page226.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page227-xhtml" href="world_ebook-page227.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page228-xhtml" href="world_ebook-page228.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page229-xhtml" href="world_ebook-page229.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page230-xhtml" href="world_ebook-page230.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page231-xhtml" href="world_ebook-page231.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page232-xhtml" href="world_ebook-page232.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page233-xhtml" href="world_ebook-page233.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page234-xhtml" href="world_ebook-page234.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page235-xhtml" href="world_ebook-page235.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page236-xhtml" href="world_ebook-page236.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page237-xhtml" href="world_ebook-page237.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page238-xhtml" href="world_ebook-page238.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page239-xhtml" href="world_ebook-page239.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page240-xhtml" href="world_ebook-page240.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page241-xhtml" href="world_ebook-page241.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page242-xhtml" href="world_ebook-page242.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page243-xhtml" href="world_ebook-page243.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page244-xhtml" href="world_ebook-page244.xhtml" media-type="application/xhtml+xml"/>
+    <item id="world_ebook-page001-img" href="world_ebook-page001.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page002-img" href="world_ebook-page002.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page003-img" href="world_ebook-page003.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page004-img" href="world_ebook-page004.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page005-img" href="world_ebook-page005.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page006-img" href="world_ebook-page006.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page007-img" href="world_ebook-page007.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page008-img" href="world_ebook-page008.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page009-img" href="world_ebook-page009.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page010-img" href="world_ebook-page010.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page011-img" href="world_ebook-page011.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page012-img" href="world_ebook-page012.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page013-img" href="world_ebook-page013.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page014-img" href="world_ebook-page014.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page015-img" href="world_ebook-page015.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page016-img" href="world_ebook-page016.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page017-img" href="world_ebook-page017.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page018-img" href="world_ebook-page018.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page019-img" href="world_ebook-page019.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page020-img" href="world_ebook-page020.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page021-img" href="world_ebook-page021.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page022-img" href="world_ebook-page022.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page023-img" href="world_ebook-page023.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page024-img" href="world_ebook-page024.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page025-img" href="world_ebook-page025.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page026-img" href="world_ebook-page026.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page027-img" href="world_ebook-page027.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page028-img" href="world_ebook-page028.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page029-img" href="world_ebook-page029.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page030-img" href="world_ebook-page030.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page031-img" href="world_ebook-page031.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page032-img" href="world_ebook-page032.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page033-img" href="world_ebook-page033.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page034-img" href="world_ebook-page034.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page035-img" href="world_ebook-page035.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page036-img" href="world_ebook-page036.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page037-img" href="world_ebook-page037.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page038-img" href="world_ebook-page038.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page039-img" href="world_ebook-page039.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page040-img" href="world_ebook-page040.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page041-img" href="world_ebook-page041.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page042-img" href="world_ebook-page042.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page043-img" href="world_ebook-page043.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page044-img" href="world_ebook-page044.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page045-img" href="world_ebook-page045.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page046-img" href="world_ebook-page046.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page047-img" href="world_ebook-page047.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page048-img" href="world_ebook-page048.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page049-img" href="world_ebook-page049.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page050-img" href="world_ebook-page050.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page051-img" href="world_ebook-page051.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page052-img" href="world_ebook-page052.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page053-img" href="world_ebook-page053.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page054-img" href="world_ebook-page054.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page055-img" href="world_ebook-page055.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page056-img" href="world_ebook-page056.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page057-img" href="world_ebook-page057.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page058-img" href="world_ebook-page058.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page059-img" href="world_ebook-page059.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page060-img" href="world_ebook-page060.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page061-img" href="world_ebook-page061.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page062-img" href="world_ebook-page062.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page063-img" href="world_ebook-page063.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page064-img" href="world_ebook-page064.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page065-img" href="world_ebook-page065.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page066-img" href="world_ebook-page066.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page067-img" href="world_ebook-page067.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page068-img" href="world_ebook-page068.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page069-img" href="world_ebook-page069.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page070-img" href="world_ebook-page070.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page071-img" href="world_ebook-page071.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page072-img" href="world_ebook-page072.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page073-img" href="world_ebook-page073.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page074-img" href="world_ebook-page074.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page075-img" href="world_ebook-page075.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page076-img" href="world_ebook-page076.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page077-img" href="world_ebook-page077.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page078-img" href="world_ebook-page078.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page079-img" href="world_ebook-page079.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page080-img" href="world_ebook-page080.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page081-img" href="world_ebook-page081.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page082-img" href="world_ebook-page082.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page083-img" href="world_ebook-page083.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page084-img" href="world_ebook-page084.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page085-img" href="world_ebook-page085.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page086-img" href="world_ebook-page086.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page087-img" href="world_ebook-page087.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page088-img" href="world_ebook-page088.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page089-img" href="world_ebook-page089.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page090-img" href="world_ebook-page090.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page091-img" href="world_ebook-page091.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page092-img" href="world_ebook-page092.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page093-img" href="world_ebook-page093.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page094-img" href="world_ebook-page094.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page095-img" href="world_ebook-page095.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page096-img" href="world_ebook-page096.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page097-img" href="world_ebook-page097.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page098-img" href="world_ebook-page098.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page099-img" href="world_ebook-page099.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page100-img" href="world_ebook-page100.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page101-img" href="world_ebook-page101.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page102-img" href="world_ebook-page102.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page103-img" href="world_ebook-page103.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page104-img" href="world_ebook-page104.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page105-img" href="world_ebook-page105.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page106-img" href="world_ebook-page106.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page107-img" href="world_ebook-page107.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page108-img" href="world_ebook-page108.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page109-img" href="world_ebook-page109.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page110-img" href="world_ebook-page110.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page111-img" href="world_ebook-page111.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page112-img" href="world_ebook-page112.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page113-img" href="world_ebook-page113.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page114-img" href="world_ebook-page114.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page115-img" href="world_ebook-page115.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page116-img" href="world_ebook-page116.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page117-img" href="world_ebook-page117.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page118-img" href="world_ebook-page118.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page119-img" href="world_ebook-page119.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page120-img" href="world_ebook-page120.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page121-img" href="world_ebook-page121.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page122-img" href="world_ebook-page122.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page123-img" href="world_ebook-page123.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page124-img" href="world_ebook-page124.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page125-img" href="world_ebook-page125.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page126-img" href="world_ebook-page126.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page127-img" href="world_ebook-page127.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page128-img" href="world_ebook-page128.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page129-img" href="world_ebook-page129.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page130-img" href="world_ebook-page130.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page131-img" href="world_ebook-page131.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page132-img" href="world_ebook-page132.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page133-img" href="world_ebook-page133.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page134-img" href="world_ebook-page134.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page135-img" href="world_ebook-page135.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page136-img" href="world_ebook-page136.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page137-img" href="world_ebook-page137.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page138-img" href="world_ebook-page138.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page139-img" href="world_ebook-page139.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page140-img" href="world_ebook-page140.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page141-img" href="world_ebook-page141.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page142-img" href="world_ebook-page142.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page143-img" href="world_ebook-page143.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page144-img" href="world_ebook-page144.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page145-img" href="world_ebook-page145.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page146-img" href="world_ebook-page146.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page147-img" href="world_ebook-page147.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page148-img" href="world_ebook-page148.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page149-img" href="world_ebook-page149.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page150-img" href="world_ebook-page150.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page151-img" href="world_ebook-page151.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page152-img" href="world_ebook-page152.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page153-img" href="world_ebook-page153.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page154-img" href="world_ebook-page154.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page155-img" href="world_ebook-page155.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page156-img" href="world_ebook-page156.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page157-img" href="world_ebook-page157.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page158-img" href="world_ebook-page158.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page159-img" href="world_ebook-page159.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page160-img" href="world_ebook-page160.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page161-img" href="world_ebook-page161.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page162-img" href="world_ebook-page162.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page163-img" href="world_ebook-page163.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page164-img" href="world_ebook-page164.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page165-img" href="world_ebook-page165.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page166-img" href="world_ebook-page166.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page167-img" href="world_ebook-page167.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page168-img" href="world_ebook-page168.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page169-img" href="world_ebook-page169.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page170-img" href="world_ebook-page170.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page171-img" href="world_ebook-page171.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page172-img" href="world_ebook-page172.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page173-img" href="world_ebook-page173.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page174-img" href="world_ebook-page174.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page175-img" href="world_ebook-page175.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page176-img" href="world_ebook-page176.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page177-img" href="world_ebook-page177.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page178-img" href="world_ebook-page178.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page179-img" href="world_ebook-page179.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page180-img" href="world_ebook-page180.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page181-img" href="world_ebook-page181.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page182-img" href="world_ebook-page182.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page183-img" href="world_ebook-page183.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page184-img" href="world_ebook-page184.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page185-img" href="world_ebook-page185.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page186-img" href="world_ebook-page186.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page187-img" href="world_ebook-page187.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page188-img" href="world_ebook-page188.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page189-img" href="world_ebook-page189.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page190-img" href="world_ebook-page190.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page191-img" href="world_ebook-page191.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page192-img" href="world_ebook-page192.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page193-img" href="world_ebook-page193.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page194-img" href="world_ebook-page194.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page195-img" href="world_ebook-page195.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page196-img" href="world_ebook-page196.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page197-img" href="world_ebook-page197.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page198-img" href="world_ebook-page198.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page199-img" href="world_ebook-page199.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page200-img" href="world_ebook-page200.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page201-img" href="world_ebook-page201.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page202-img" href="world_ebook-page202.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page203-img" href="world_ebook-page203.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page204-img" href="world_ebook-page204.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page205-img" href="world_ebook-page205.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page206-img" href="world_ebook-page206.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page207-img" href="world_ebook-page207.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page208-img" href="world_ebook-page208.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page209-img" href="world_ebook-page209.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page210-img" href="world_ebook-page210.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page211-img" href="world_ebook-page211.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page212-img" href="world_ebook-page212.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page213-img" href="world_ebook-page213.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page214-img" href="world_ebook-page214.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page215-img" href="world_ebook-page215.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page216-img" href="world_ebook-page216.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page217-img" href="world_ebook-page217.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page218-img" href="world_ebook-page218.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page219-img" href="world_ebook-page219.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page220-img" href="world_ebook-page220.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page221-img" href="world_ebook-page221.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page222-img" href="world_ebook-page222.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page223-img" href="world_ebook-page223.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page224-img" href="world_ebook-page224.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page225-img" href="world_ebook-page225.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page226-img" href="world_ebook-page226.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page227-img" href="world_ebook-page227.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page228-img" href="world_ebook-page228.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page229-img" href="world_ebook-page229.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page230-img" href="world_ebook-page230.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page231-img" href="world_ebook-page231.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page232-img" href="world_ebook-page232.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page233-img" href="world_ebook-page233.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page234-img" href="world_ebook-page234.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page235-img" href="world_ebook-page235.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page236-img" href="world_ebook-page236.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page237-img" href="world_ebook-page237.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page238-img" href="world_ebook-page238.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page239-img" href="world_ebook-page239.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page240-img" href="world_ebook-page240.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page241-img" href="world_ebook-page241.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page242-img" href="world_ebook-page242.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page243-img" href="world_ebook-page243.jpg" media-type="image/jpeg"/>
+    <item id="world_ebook-page244-img" href="world_ebook-page244.jpg" media-type="image/jpeg"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="nav-html" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page001-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page002-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page003-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page004-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page005-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page006-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page007-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page008-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page009-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page010-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page011-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page012-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page013-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page014-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page015-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page016-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page017-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page018-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page019-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page020-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page021-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page022-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page023-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page024-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page025-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page026-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page027-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page028-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page029-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page030-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page031-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page032-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page033-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page034-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page035-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page036-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page037-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page038-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page039-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page040-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page041-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page042-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page043-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page044-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page045-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page046-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page047-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page048-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page049-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page050-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page051-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page052-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page053-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page054-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page055-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page056-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page057-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page058-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page059-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page060-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page061-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page062-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page063-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page064-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page065-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page066-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page067-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page068-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page069-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page070-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page071-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page072-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page073-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page074-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page075-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page076-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page077-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page078-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page079-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page080-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page081-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page082-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page083-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page084-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page085-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page086-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page087-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page088-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page089-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page090-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page091-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page092-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page093-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page094-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page095-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page096-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page097-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page098-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page099-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page100-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page101-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page102-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page103-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page104-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page105-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page106-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page107-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page108-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page109-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page110-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page111-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page112-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page113-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page114-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page115-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page116-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page117-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page118-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page119-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page120-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page121-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page122-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page123-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page124-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page125-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page126-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page127-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page128-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page129-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page130-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page131-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page132-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page133-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page134-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page135-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page136-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page137-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page138-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page139-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page140-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page141-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page142-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page143-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page144-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page145-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page146-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page147-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page148-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page149-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page150-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page151-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page152-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page153-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page154-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page155-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page156-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page157-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page158-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page159-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page160-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page161-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page162-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page163-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page164-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page165-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page166-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page167-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page168-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page169-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page170-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page171-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page172-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page173-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page174-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page175-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page176-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page177-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page178-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page179-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page180-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page181-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page182-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page183-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page184-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page185-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page186-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page187-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page188-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page189-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page190-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page191-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page192-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page193-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page194-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page195-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page196-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page197-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page198-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page199-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page200-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page201-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page202-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page203-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page204-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page205-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page206-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page207-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page208-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page209-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page210-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page211-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page212-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page213-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page214-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page215-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page216-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page217-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page218-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page219-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page220-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page221-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page222-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page223-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page224-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page225-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page226-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page227-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page228-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page229-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page230-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page231-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page232-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page233-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page234-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page235-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page236-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page237-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page238-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page239-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page240-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page241-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page242-xhtml" properties="page-spread-left"/>
+    <itemref idref="world_ebook-page243-xhtml" properties="page-spread-right"/>
+    <itemref idref="world_ebook-page244-xhtml" properties="page-spread-left"/>
+  </spine>
+</package>
