@@ -10,13 +10,13 @@ This script is used to make the ebook (epub) version of GClub World Atlas. Each 
 
 [mimetype](https://github.com/geographyclub/images-to-ebook/blob/master/mimetype) -- identifies this as an epub document.
 
-[OEBPS/content.opf](https://github.com/geographyclub/images-to-ebook/OEBPS/blob/master/content.opf) -- metadata.
+[OEBPS/content.opf](https://github.com/geographyclub/images-to-ebook/blob/master/OEBPS/content.opf) -- metadata.
 
-[OEBPS/nav.xhtml](https://github.com/geographyclub/images-to-ebook/OEBPS/blob/master/nav.xhtml) -- navigation document.
+[OEBPS/nav.xhtml](https://github.com/geographyclub/images-to-ebook/blob/master/OEBPS/nav.xhtml) -- navigation document.
 
-[OEBPS/style.css](https://github.com/geographyclub/images-to-ebook/OEBPS/blob/master/style.css) -- stylesheet.
+[OEBPS/style.css](https://github.com/geographyclub/images-to-ebook/blob/master/OEBPS/style.css) -- stylesheet.
 
-[OEBPS/toc.ncx](https://github.com/geographyclub/images-to-ebook/OEBPS/blob/master/toc.ncx) -- navigation document.
+[OEBPS/toc.ncx](https://github.com/geographyclub/images-to-ebook/blob/master/OEBPS/toc.ncx) -- navigation document.
 
-[META-INF/container.xml](https://github.com/geographyclub/images-to-ebook/META-INF/blob/master/container.xml) -- points to content.opf.
+[META-INF/container.xml](https://github.com/geographyclub/images-to-ebook/blob/master/META-INF/container.xml) -- points to content.opf.
 
