@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These files are used to make the ebook (epub3) version of GClub World Atlas. Each page of the book is exported as an image in Scribus then built into epub structured documents thru make_book.sh.
+These files are used to make the ebook (epub3) version of GClub World Atlas. Each page of the book is exported as an image in Scribus then inserted into epub structured documents thru the make_ebook.sh script.
 
 ## Files
 
